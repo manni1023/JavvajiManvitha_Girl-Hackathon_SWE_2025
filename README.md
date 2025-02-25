@@ -1,6 +1,3 @@
-# JavvajiManvitha_Girl-Hackathon_SWE_2025
-Developer Productivity: Intelligent IDE
-
 AI capabilities can now be used to automate traditionally creative or complex tasks, resulting in enhanced productivity and efficiency across diverse domains. AI can not only produce creative and intelligent multimodal forms of output, but can also orchestrate workflows and perform tasks as an ‘agent’, in its own right. This can take automation across various verticals to whole new heights and unlock tremendous levels of productivity and efficiency for everyone. This hackathon challenges participants to develop AI-driven solutions that accelerate processes, optimize workflows, and unlock new levels of human potential.
 
 Developer Productivity: Intelligent IDE - automated generation of code, tests with advanced debugging capabilities (automagically suggest bug fixes) leading on to largely automated continuous build and integration processes.
